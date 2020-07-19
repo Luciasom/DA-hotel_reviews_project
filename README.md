@@ -14,7 +14,7 @@
 ## Project Background
 
 - This dataset has been chosen as it revolves around a topic which is close to almost anyone; apart from that it offers a possibility of an impactful business implementation.
-- The [initial dataset](https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe) consists of 515738 reviews and 34 features, one of them being the reviewer score which is the dependent variable.
+- The [initial dataset](https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe) consists of 515 738 reviews and 34 features, one of them being the reviewer score which is the dependent variable.
 - For this project, EDA, visualisation and data interpretation have been given priority over algorithms as it seemed to me that for this particular dataset, it would be much easier to actually implement the results in the form of graphs, charts and plots into business, rather than estimator predictions and their coefficients.
 
 ## Project Outline
