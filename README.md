@@ -3,7 +3,7 @@
 
 ## Project Summary
 
-- Comprehensively <b>explored and visualized</b> the data, followed up by predicting score given by the reviewer with **RMSE of 0.73** points on 1-10 review scale.
+- Comprehensively **explored and visualized** the data, followed up by predicting score given by the reviewer with **RMSE of 0.73** points on 1-10 review scale.
 - **Engineered multiple features** from the data, such as country of each hotel from address and length of stay from tags of each review.
 - Performed **sentiment analysis** on text for each review, managed to find the most impactful pairs of words and how they affected the reviewer.
 - Implemented **Regressive Histogram Gradient Boosting**, Linear Regression, and Random Forest algorithms, extracted **feature importance and performed feature selection**.
