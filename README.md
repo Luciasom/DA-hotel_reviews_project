@@ -1,4 +1,4 @@
-# [Analysis of more than 515 thousand reviews for European hotels - Regression task - Project Overview:](https://t-ded.github.io/t-ded-portfolio/projects/project-1/)
+# [Analysis of more than 515 thousand reviews for European hotels - Regression task - Project Overview:](https://t-ded.github.io/t-ded-portfolio/projects/hotel-reviews/)
 
 
 ## Project Summary
